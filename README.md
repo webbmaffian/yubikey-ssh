@@ -27,7 +27,7 @@ sudo apt-get install yubikey-manager
 ```
 
 ### 2. Go offline
-No kidding - disconnect from internet.
+I'm not kidding - disconnect from internet.
 
 ### 3. Setup Management Key (repeat per Ubikey)
 Connect your Ubikey, and either:
